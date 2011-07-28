@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title></title>
+  <link href="http://adamnbowen.github.com/atom.xml" rel="self"/>
+  <link href="http://adamnbowen.github.com/"/>
+  <updated>2011-07-27T21:41:21-04:00</updated>
+  <id>http://adamnbowen.github.com/</id>
+  <author>
+    <name>Adam N Bowen</name>
+    
+  </author>
+
+  
+</feed>
