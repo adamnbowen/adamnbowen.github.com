@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title></title>
+  <title>Adam N Bowen</title>
   <link href="http://adamnbowen.github.com/atom.xml" rel="self"/>
   <link href="http://adamnbowen.github.com/"/>
-  <updated>2011-07-28T13:20:11-04:00</updated>
+  <updated>2011-08-13T12:38:58-04:00</updated>
   <id>http://adamnbowen.github.com/</id>
   <author>
     <name>Adam N Bowen</name>
