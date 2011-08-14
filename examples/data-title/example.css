@@ -1,0 +1,11 @@
+abbr {
+  position: relative; }
+  abbr[data-title]:hover:after {
+    content: attr(data-title);
+    position: absolute;
+    left: 0;
+    top: 100%;
+    width: 300px;
+    padding: 3px 8px;
+    background: lightgray;
+    border: 1px solid black; }
